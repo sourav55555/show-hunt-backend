@@ -152,8 +152,8 @@ async function run() {
             }
           ],
           mode: "payment",
-          success_url: "http://localhost:5173/success",
-          cancel_url: "http://localhost:5173/error",
+          success_url: "https://subtle-cupcake-3a9d1b.netlify.app/success",
+          cancel_url: "https://subtle-cupcake-3a9d1b.netlify.app/error",
         });
 
         // Wait for the payment to be processed
