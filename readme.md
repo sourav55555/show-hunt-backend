@@ -1,4 +1,4 @@
-# Project Name
+# show-hunt-backend
 
 ## Description
 
